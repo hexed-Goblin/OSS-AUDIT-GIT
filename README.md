@@ -45,7 +45,30 @@ Processes a log file, counts the number of error messages, and displays the last
 Takes user input and generates a personalized manifesto saved as a text file.
 
 ---
+## Step-by-Step Guide to Run the Scripts
 
+Follow these steps carefully to run the shell scripts in a Linux environment.
+
+---
+
+### 1. Open a Linux Terminal
+
+You need a Linux environment such as:
+
+- Google Cloud Shell (recommended)  
+- Ubuntu (WSL or Virtual Machine)  
+
+Once opened, you will see a terminal window.
+
+---
+
+### 2. Create a Project Folder
+
+First, create a folder to store all scripts:
+
+```bash
+mkdir oss-audit-git
+cd oss-audit-git
 ##  How to Run the Scripts
 
 For every Script:
